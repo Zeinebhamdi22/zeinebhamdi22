@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 I'm Zeineb Hamdi, a passionate Python Developer from Tunisia 🇹🇳<br>💡 I love problem-solving and building smart, efficient solutions.<br>🤖 Enthusiastic about Generative AI and its potential to transform the future.</p>
+<p align="left">👋 I'm Zeineb Hamdi, a passionate Python Developer <br>💡 I love problem-solving and building smart, efficient solutions.<br>🤖 Enthusiastic about Generative AI and its potential to transform the future.</p>
 
 ###
 
